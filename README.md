@@ -1,3 +1,0 @@
-# Student-Tracker
-
-Practice React
