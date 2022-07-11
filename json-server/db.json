@@ -1,0 +1,904 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "firstName": "Man",
+            "lastName": "Clowser",
+            "email": "mclowser0@state.gov",
+            "gender": "Male",
+            "classFirstPart": 1,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 2,
+            "firstName": "Hobey",
+            "lastName": "Buxcey",
+            "email": "hbuxcey1@buzzfeed.com",
+            "gender": "Male",
+            "classFirstPart": 8,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 3,
+            "firstName": "Bord",
+            "lastName": "Ellesmere",
+            "email": "bellesmere2@paypal.com",
+            "gender": "Male",
+            "classFirstPart": 8,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 4,
+            "firstName": "Bernhard",
+            "lastName": "Topham",
+            "email": "btopham3@google.pl",
+            "gender": "Male",
+            "classFirstPart": 6,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 5,
+            "firstName": "Meaghan",
+            "lastName": "Capper",
+            "email": "mcapper4@ucla.edu",
+            "gender": "Non-binary",
+            "classFirstPart": 8,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 6,
+            "firstName": "Flora",
+            "lastName": "Nanni",
+            "email": "fnanni5@uol.com.br",
+            "gender": "Female",
+            "classFirstPart": 1,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 7,
+            "firstName": "Nona",
+            "lastName": "Mellanby",
+            "email": "nmellanby6@jugem.jp",
+            "gender": "Female",
+            "classFirstPart": 9,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 8,
+            "firstName": "Lammond",
+            "lastName": "Hoff",
+            "email": "lhoff7@theatlantic.com",
+            "gender": "Male",
+            "classFirstPart": 10,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 9,
+            "firstName": "Dennison",
+            "lastName": "Di Angelo",
+            "email": "ddiangelo8@youtube.com",
+            "gender": "Male",
+            "classFirstPart": 8,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 10,
+            "firstName": "Michaella",
+            "lastName": "Ebben",
+            "email": "mebben9@wikispaces.com",
+            "gender": "Female",
+            "classFirstPart": 3,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 11,
+            "firstName": "Pebrook",
+            "lastName": "Slyman",
+            "email": "pslymana@economist.com",
+            "gender": "Non-binary",
+            "classFirstPart": 6,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 12,
+            "firstName": "Theresita",
+            "lastName": "Dobinson",
+            "email": "tdobinsonb@disqus.com",
+            "gender": "Female",
+            "classFirstPart": 9,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 13,
+            "firstName": "Maximilien",
+            "lastName": "Rembrandt",
+            "email": "mrembrandtc@seesaa.net",
+            "gender": "Male",
+            "classFirstPart": 3,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 14,
+            "firstName": "Marquita",
+            "lastName": "Ciciotti",
+            "email": "mciciottid@gmpg.org",
+            "gender": "Female",
+            "classFirstPart": 7,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 15,
+            "firstName": "Yelena",
+            "lastName": "Stampe",
+            "email": "ystampee@dmoz.org",
+            "gender": "Female",
+            "classFirstPart": 12,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 16,
+            "firstName": "Kirby",
+            "lastName": "Duthie",
+            "email": "kduthief@comsenz.com",
+            "gender": "Male",
+            "classFirstPart": 12,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 17,
+            "firstName": "Karena",
+            "lastName": "Seton",
+            "email": "ksetong@ca.gov",
+            "gender": "Female",
+            "classFirstPart": 10,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 18,
+            "firstName": "Caroline",
+            "lastName": "Giamitti",
+            "email": "cgiamittih@booking.com",
+            "gender": "Female",
+            "classFirstPart": 11,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 19,
+            "firstName": "Inge",
+            "lastName": "Dulwitch",
+            "email": "idulwitchi@cyberchimps.com",
+            "gender": "Female",
+            "classFirstPart": 12,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 20,
+            "firstName": "Beale",
+            "lastName": "Budik",
+            "email": "bbudikj@last.fm",
+            "gender": "Male",
+            "classFirstPart": 8,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 21,
+            "firstName": "Kimmy",
+            "lastName": "Bonnick",
+            "email": "kbonnickk@alibaba.com",
+            "gender": "Female",
+            "classFirstPart": 2,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 22,
+            "firstName": "Bail",
+            "lastName": "Bauser",
+            "email": "bbauserl@umn.edu",
+            "gender": "Male",
+            "classFirstPart": 9,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 23,
+            "firstName": "Marcellina",
+            "lastName": "Rodge",
+            "email": "mrodgem@zdnet.com",
+            "gender": "Female",
+            "classFirstPart": 11,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 24,
+            "firstName": "Frannie",
+            "lastName": "Crunkhurn",
+            "email": "fcrunkhurnn@wikipedia.org",
+            "gender": "Male",
+            "classFirstPart": 10,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 25,
+            "firstName": "Carley",
+            "lastName": "McLeod",
+            "email": "cmcleodo@twitpic.com",
+            "gender": "Agender",
+            "classFirstPart": 4,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 26,
+            "firstName": "Cristi",
+            "lastName": "Knightly",
+            "email": "cknightlyp@arstechnica.com",
+            "gender": "Female",
+            "classFirstPart": 9,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 27,
+            "firstName": "Kaylil",
+            "lastName": "Edgecumbe",
+            "email": "kedgecumbeq@ucoz.ru",
+            "gender": "Female",
+            "classFirstPart": 11,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 28,
+            "firstName": "Georgina",
+            "lastName": "Ferriman",
+            "email": "gferrimanr@ft.com",
+            "gender": "Bigender",
+            "classFirstPart": 10,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 29,
+            "firstName": "Latisha",
+            "lastName": "Kraft",
+            "email": "lkrafts@privacy.gov.au",
+            "gender": "Female",
+            "classFirstPart": 9,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 30,
+            "firstName": "Fabien",
+            "lastName": "Knight",
+            "email": "fknightt@pagesperso-orange.fr",
+            "gender": "Male",
+            "classFirstPart": 12,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 31,
+            "firstName": "Devon",
+            "lastName": "Gunnell",
+            "email": "dgunnellu@stumbleupon.com",
+            "gender": "Female",
+            "classFirstPart": 6,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 32,
+            "firstName": "Emmalee",
+            "lastName": "Gonin",
+            "email": "egoninv@ed.gov",
+            "gender": "Female",
+            "classFirstPart": 2,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 33,
+            "firstName": "Daron",
+            "lastName": "Dadley",
+            "email": "ddadleyw@oaic.gov.au",
+            "gender": "Male",
+            "classFirstPart": 6,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 34,
+            "firstName": "Silas",
+            "lastName": "Hauck",
+            "email": "shauckx@arstechnica.com",
+            "gender": "Male",
+            "classFirstPart": 3,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 35,
+            "firstName": "Ephrayim",
+            "lastName": "Calcutt",
+            "email": "ecalcutty@sbwire.com",
+            "gender": "Genderqueer",
+            "classFirstPart": 12,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 36,
+            "firstName": "Shayne",
+            "lastName": "Legier",
+            "email": "slegierz@netscape.com",
+            "gender": "Genderfluid",
+            "classFirstPart": 10,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 37,
+            "firstName": "Loydie",
+            "lastName": "Baldrey",
+            "email": "lbaldrey10@gov.uk",
+            "gender": "Male",
+            "classFirstPart": 9,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 38,
+            "firstName": "Hanni",
+            "lastName": "Toogood",
+            "email": "htoogood11@flickr.com",
+            "gender": "Female",
+            "classFirstPart": 6,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 39,
+            "firstName": "Elmer",
+            "lastName": "Skate",
+            "email": "eskate12@people.com.cn",
+            "gender": "Male",
+            "classFirstPart": 2,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 40,
+            "firstName": "Alessandra",
+            "lastName": "Wride",
+            "email": "awride13@shareasale.com",
+            "gender": "Female",
+            "classFirstPart": 6,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 41,
+            "firstName": "Karoly",
+            "lastName": "Offield",
+            "email": "koffield14@instagram.com",
+            "gender": "Male",
+            "classFirstPart": 4,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 42,
+            "firstName": "Riannon",
+            "lastName": "Crichmer",
+            "email": "rcrichmer15@dmoz.org",
+            "gender": "Bigender",
+            "classFirstPart": 3,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 43,
+            "firstName": "Nahum",
+            "lastName": "Bardwell",
+            "email": "nbardwell16@php.net",
+            "gender": "Male",
+            "classFirstPart": 6,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 44,
+            "firstName": "Griz",
+            "lastName": "Helix",
+            "email": "ghelix17@engadget.com",
+            "gender": "Male",
+            "classFirstPart": 1,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 45,
+            "firstName": "Jules",
+            "lastName": "Benian",
+            "email": "jbenian18@exblog.jp",
+            "gender": "Male",
+            "classFirstPart": 2,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 46,
+            "firstName": "Mamie",
+            "lastName": "Reeman",
+            "email": "mreeman19@umn.edu",
+            "gender": "Female",
+            "classFirstPart": 12,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 47,
+            "firstName": "Janos",
+            "lastName": "Vicarey",
+            "email": "jvicarey1a@webnode.com",
+            "gender": "Polygender",
+            "classFirstPart": 3,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 48,
+            "firstName": "Alyce",
+            "lastName": "Verrico",
+            "email": "averrico1b@merriam-webster.com",
+            "gender": "Female",
+            "classFirstPart": 1,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 49,
+            "firstName": "Trace",
+            "lastName": "Starbeck",
+            "email": "tstarbeck1c@devhub.com",
+            "gender": "Male",
+            "classFirstPart": 12,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 50,
+            "firstName": "Aldus",
+            "lastName": "Middell",
+            "email": "amiddell1d@over-blog.com",
+            "gender": "Male",
+            "classFirstPart": 12,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 51,
+            "firstName": "Peta",
+            "lastName": "Rodden",
+            "email": "prodden1e@hibu.com",
+            "gender": "Agender",
+            "classFirstPart": 4,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 52,
+            "firstName": "Illa",
+            "lastName": "Goater",
+            "email": "igoater1f@cornell.edu",
+            "gender": "Genderfluid",
+            "classFirstPart": 10,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 53,
+            "firstName": "Zacharias",
+            "lastName": "Capell",
+            "email": "zcapell1g@rambler.ru",
+            "gender": "Male",
+            "classFirstPart": 12,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 54,
+            "firstName": "Creighton",
+            "lastName": "Darridon",
+            "email": "cdarridon1h@netscape.com",
+            "gender": "Male",
+            "classFirstPart": 11,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 55,
+            "firstName": "Florella",
+            "lastName": "Flook",
+            "email": "fflook1i@foxnews.com",
+            "gender": "Female",
+            "classFirstPart": 12,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 56,
+            "firstName": "Jennie",
+            "lastName": "Langcastle",
+            "email": "jlangcastle1j@wordpress.com",
+            "gender": "Female",
+            "classFirstPart": 7,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 57,
+            "firstName": "Anica",
+            "lastName": "Heaps",
+            "email": "aheaps1k@weebly.com",
+            "gender": "Female",
+            "classFirstPart": 4,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 58,
+            "firstName": "Loy",
+            "lastName": "Triner",
+            "email": "ltriner1l@github.io",
+            "gender": "Male",
+            "classFirstPart": 1,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 59,
+            "firstName": "Yorke",
+            "lastName": "Sibbert",
+            "email": "ysibbert1m@ox.ac.uk",
+            "gender": "Male",
+            "classFirstPart": 6,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 60,
+            "firstName": "Major",
+            "lastName": "Morby",
+            "email": "mmorby1n@taobao.com",
+            "gender": "Male",
+            "classFirstPart": 1,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 61,
+            "firstName": "Benny",
+            "lastName": "Winslade",
+            "email": "bwinslade1o@dell.com",
+            "gender": "Non-binary",
+            "classFirstPart": 12,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 62,
+            "firstName": "Kellie",
+            "lastName": "Rollings",
+            "email": "krollings1p@yahoo.com",
+            "gender": "Female",
+            "classFirstPart": 1,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 63,
+            "firstName": "Elene",
+            "lastName": "Kalaher",
+            "email": "ekalaher1q@taobao.com",
+            "gender": "Non-binary",
+            "classFirstPart": 5,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 64,
+            "firstName": "Hadrian",
+            "lastName": "Freer",
+            "email": "hfreer1r@pcworld.com",
+            "gender": "Male",
+            "classFirstPart": 3,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 65,
+            "firstName": "Drucill",
+            "lastName": "Lightbourne",
+            "email": "dlightbourne1s@edublogs.org",
+            "gender": "Agender",
+            "classFirstPart": 8,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 66,
+            "firstName": "Arabel",
+            "lastName": "Palatino",
+            "email": "apalatino1t@slate.com",
+            "gender": "Female",
+            "classFirstPart": 7,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 67,
+            "firstName": "Charlene",
+            "lastName": "Paxman",
+            "email": "cpaxman1u@unblog.fr",
+            "gender": "Female",
+            "classFirstPart": 7,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 68,
+            "firstName": "Carrie",
+            "lastName": "Rosa",
+            "email": "crosa1v@wix.com",
+            "gender": "Female",
+            "classFirstPart": 11,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 69,
+            "firstName": "Con",
+            "lastName": "Auletta",
+            "email": "cauletta1w@yahoo.co.jp",
+            "gender": "Bigender",
+            "classFirstPart": 11,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 70,
+            "firstName": "Janos",
+            "lastName": "Blandamere",
+            "email": "jblandamere1x@parallels.com",
+            "gender": "Male",
+            "classFirstPart": 3,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 71,
+            "firstName": "Felice",
+            "lastName": "Durman",
+            "email": "fdurman1y@cnn.com",
+            "gender": "Male",
+            "classFirstPart": 1,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 72,
+            "firstName": "Del",
+            "lastName": "Corradi",
+            "email": "dcorradi1z@amazon.co.uk",
+            "gender": "Female",
+            "classFirstPart": 3,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 73,
+            "firstName": "Thia",
+            "lastName": "Chesley",
+            "email": "tchesley20@umich.edu",
+            "gender": "Female",
+            "classFirstPart": 11,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 74,
+            "firstName": "Madella",
+            "lastName": "Biddiss",
+            "email": "mbiddiss21@answers.com",
+            "gender": "Female",
+            "classFirstPart": 5,
+            "classSecondPart": "b"
+        },
+        {
+            "id": 75,
+            "firstName": "Arlana",
+            "lastName": "Tancock",
+            "email": "atancock22@examiner.com",
+            "gender": "Female",
+            "classFirstPart": 9,
+            "classSecondPart": "b"
+        },
+        {
+            "id": 76,
+            "firstName": "Rowney",
+            "lastName": "Heis",
+            "email": "rheis23@cbsnews.com",
+            "gender": "Male",
+            "classFirstPart": 12,
+            "classSecondPart": "b"
+        },
+        {
+            "id": 77,
+            "firstName": "Neale",
+            "lastName": "Langthorne",
+            "email": "nlangthorne24@eventbrite.com",
+            "gender": "Male",
+            "classFirstPart": 12,
+            "classSecondPart": "b"
+        },
+        {
+            "id": 78,
+            "firstName": "Minna",
+            "lastName": "Trewhella",
+            "email": "mtrewhella25@i2i.jp",
+            "gender": "Female",
+            "classFirstPart": 1,
+            "classSecondPart": "b"
+        },
+        {
+            "id": 79,
+            "firstName": "Jo",
+            "lastName": "Willeson",
+            "email": "jwilleson26@vimeo.com",
+            "gender": "Female",
+            "classFirstPart": 9,
+            "classSecondPart": "b"
+        },
+        {
+            "id": 80,
+            "firstName": "Portia",
+            "lastName": "Gallager",
+            "email": "pgallager27@imgur.com",
+            "gender": "Female",
+            "classFirstPart": 7,
+            "classSecondPart": "b"
+        },
+        {
+            "id": 81,
+            "firstName": "Penn",
+            "lastName": "Letterese",
+            "email": "pletterese28@dedecms.com",
+            "gender": "Male",
+            "classFirstPart": 10,
+            "classSecondPart": "b"
+        },
+        {
+            "id": 82,
+            "firstName": "Rosella",
+            "lastName": "Kington",
+            "email": "rkington29@smh.com.au",
+            "gender": "Female",
+            "classFirstPart": 1,
+            "classSecondPart": "b"
+        },
+        {
+            "id": 83,
+            "firstName": "Isabeau",
+            "lastName": "De Cristofalo",
+            "email": "idecristofalo2a@vk.com",
+            "gender": "Female",
+            "classFirstPart": 2,
+            "classSecondPart": "b"
+        },
+        {
+            "id": 84,
+            "firstName": "Stillman",
+            "lastName": "Oxteby",
+            "email": "soxteby2b@slate.com",
+            "gender": "Male",
+            "classFirstPart": 7,
+            "classSecondPart": "b"
+        },
+        {
+            "id": 85,
+            "firstName": "Beck",
+            "lastName": "Quainton",
+            "email": "bquainton2c@cloudflare.com",
+            "gender": "Male",
+            "classFirstPart": 11,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 86,
+            "firstName": "Ilysa",
+            "lastName": "Damp",
+            "email": "idamp2d@si.edu",
+            "gender": "Female",
+            "classFirstPart": 8,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 87,
+            "firstName": "Abbi",
+            "lastName": "Martijn",
+            "email": "amartijn2e@phpbb.com",
+            "gender": "Female",
+            "classFirstPart": 5,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 88,
+            "firstName": "Ruperta",
+            "lastName": "Spelling",
+            "email": "rspelling2f@google.ru",
+            "gender": "Female",
+            "classFirstPart": 4,
+            "classSecondPart": "c"
+        },
+        {
+            "id": 89,
+            "firstName": "Duff",
+            "lastName": "Normaville",
+            "email": "dnormaville2g@intel.com",
+            "gender": "Male",
+            "classFirstPart": 7,
+            "classSecondPart": "c"
+        },
+        {
+            "id": 90,
+            "firstName": "Ari",
+            "lastName": "Boydon",
+            "email": "aboydon2h@pen.io",
+            "gender": "Male",
+            "classFirstPart": 8,
+            "classSecondPart": "c"
+        },
+        {
+            "id": 91,
+            "firstName": "Elinor",
+            "lastName": "Sterling",
+            "email": "esterling2i@blogs.com",
+            "gender": "Female",
+            "classFirstPart": 6,
+            "classSecondPart": "c"
+        },
+        {
+            "id": 92,
+            "firstName": "Adelice",
+            "lastName": "Harder",
+            "email": "aharder2j@mysql.com",
+            "gender": "Female",
+            "classFirstPart": 4,
+            "classSecondPart": "c"
+        },
+        {
+            "id": 93,
+            "firstName": "Edsel",
+            "lastName": "McLucky",
+            "email": "emclucky2k@wikispaces.com",
+            "gender": "Male",
+            "classFirstPart": 5,
+            "classSecondPart": "c"
+        },
+        {
+            "id": 94,
+            "firstName": "Erica",
+            "lastName": "Nolan",
+            "email": "enolan2l@xing.com",
+            "gender": "Female",
+            "classFirstPart": 11,
+            "classSecondPart": "c"
+        },
+        {
+            "id": 95,
+            "firstName": "Hoyt",
+            "lastName": "Tatlow",
+            "email": "htatlow2m@mit.edu",
+            "gender": "Male",
+            "classFirstPart": 4,
+            "classSecondPart": "c"
+        },
+        {
+            "id": 96,
+            "firstName": "Linea",
+            "lastName": "Braidon",
+            "email": "lbraidon2n@wix.com",
+            "gender": "Polygender",
+            "classFirstPart": 1,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 97,
+            "firstName": "Renell",
+            "lastName": "Keyser",
+            "email": "rkeyser2o@mediafire.com",
+            "gender": "Female",
+            "classFirstPart": 9,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 98,
+            "firstName": "Kerk",
+            "lastName": "Bergeau",
+            "email": "kbergeau2p@usatoday.com",
+            "gender": "Male",
+            "classFirstPart": 8,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 99,
+            "firstName": "Clementine",
+            "lastName": "Turban",
+            "email": "cturban2q@google.es",
+            "gender": "Female",
+            "classFirstPart": 2,
+            "classSecondPart": "a"
+        },
+        {
+            "id": 100,
+            "firstName": "Josee",
+            "lastName": "Rahl",
+            "email": "jrahl2r@cmu.edu",
+            "gender": "Female",
+            "classFirstPart": 4,
+            "classSecondPart": "a"
+        }
+    ]
+}
