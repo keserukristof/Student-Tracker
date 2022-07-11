@@ -9,7 +9,6 @@ import Home from './pages/Home';
 import StudentManager from './pages/StudentManager'
 import ClassManager from './pages/ClassManager'
 
-
 function App() {
   return (
     <Router>
