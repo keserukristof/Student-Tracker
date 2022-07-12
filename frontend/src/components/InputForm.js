@@ -1,4 +1,11 @@
+import React, { useState } from "react";
+import useStudentStore from '../store'
+
 function InputForm() {
+    const addStudent = useStudentStore((state) => state.addStudent);
+
+    const handleStudentSubmit = () => {}
+
     return (
         <form class="container p-5">
             <div class="mb-3">

@@ -1,7 +1,19 @@
-import { useStoreon } from 'storeon/react'
+import React, { useEffect } from "react";
+import useStudentStore from '../store'
+
 
 function Table() {
-    const { students } = useStoreon('students');
+    const { students, getStudents } = useStudentStore(
+        (state) => ({
+            students: state.students,
+            getStudents: state.getStudents
+        })
+    )
+
+    useEffect( () => {
+        getStudents();
+        console.log(students)
+     }, []);
 
     return (
         <table class="table container p-5">
@@ -15,16 +27,15 @@ function Table() {
                 </tr>
             </thead>
             <tbody>
-                {console.log(students)}
                 {students.map(student => {
                     return (
                         <tr>
                             <th scope="row">{student.id}</th>
                             <td>{student.firstName}</td>
-                            <td>Otto</td>
-                            <td>@mdo</td>
-                            <td>@mdo</td>
-                        </tr>);
+                            <td>Thornton</td>
+                            <td>@fat</td>
+                        </tr>
+                    )
                 })}
             </tbody>
         </table>
