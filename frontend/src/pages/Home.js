@@ -3,8 +3,6 @@ import React from "react";
 import studentPicture from '../assets/student.jpg'
 import classPicture from '../assets/class.jpg'
 
-import '../styles/Home.css'
-
 function Home() {
     return (
         <div class="container">
