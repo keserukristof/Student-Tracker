@@ -1,7 +1,11 @@
+import Table from '../components/Table'
+import InputForm from '../components/InputForm'
+
 function StudentManager() {
     return (
         <div>
-            <h2>Student Manager</h2>
+            <InputForm />
+            <Table />
         </div>
     );
 }
