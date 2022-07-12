@@ -1,11 +1,12 @@
 import create from 'zustand';
-import axios from 'axios'
+
+import { getStudents } from "./api/apiCalls"
 
 const studentStore = (set) => ({
     students: [],
     getStudents: async () => {
-        const res = await axios.get('http://localhost:3000/students');
-        set({ students: res.data });
+        const fetchedStudents = await getStudents();
+        set({ students: fetchedStudents });
     },
     addStudent: (student) => {
         set((state) => ({
