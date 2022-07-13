@@ -2,6 +2,7 @@ import useStudentStore from '../store'
 
 import React, { useState } from 'react';
 import { saveStudent } from '../api/apiCalls';
+import { getFirstPartOfClass } from '../helpers/substring'
 
 function InputForm() {
     const { students, addStudent } = useStudentStore(
@@ -27,7 +28,7 @@ function InputForm() {
             lastName: student.lastName,
             email: student.email,
             gender: student.gender,
-            classFirstPart: student.class.charAt(0),
+            classFirstPart: getFirstPartOfClass(student.class),
             classSecondPart: student.class.charAt(student.class.length - 1)
         };
         addStudent(newStudent);
