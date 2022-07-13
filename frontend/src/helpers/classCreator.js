@@ -1,11 +1,19 @@
 export function createClass(studentList) {
-    const classesWithDuplicates = studentList.map(student => {
-        return converToClassFormat(student.classFirstPart, student.classSecondPart);
-    });
-    const uniqueClasses = [...new Set(classesWithDuplicates)];
+    const classesWithDuplicates = getAllClasses(studentList);
+    const uniqueClasses = getUniqueItems(classesWithDuplicates);
     let classesWithStudents = convertArrayToObject(uniqueClasses);
     fillClassesWithStudents(studentList, uniqueClasses, classesWithStudents);
     return classesWithStudents;
+}
+
+function getAllClasses(studentList) {
+    return studentList.map(student => {
+        return converToClassFormat(student.classFirstPart, student.classSecondPart);
+    });
+}
+
+function getUniqueItems(classes) {
+    return [...new Set(classes)];
 }
 
 function converToClassFormat(classFirstPart, classSecondPart) {
