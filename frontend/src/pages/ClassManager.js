@@ -2,8 +2,9 @@ import React, { useEffect } from "react";
 
 import useStudentStore from '../store'
 
-import ClassCard from "../components/ClassCard";
-import { createClass } from "../helpers/classCreator";
+import ClassCard from '../components/ClassCard';
+import { createClass } from '../helpers/classCreator';
+import { compareClasses } from '../helpers/sortHelpers'
 
 function ClassManager() {
     const { students, getStudents } = useStudentStore(
@@ -18,13 +19,18 @@ function ClassManager() {
     }, []);
 
     const classesWithStudents = createClass(students);
+    const classes = Object.keys(classesWithStudents);
+    const sortedClasses = classes.sort(compareClasses());
 
     return (
         <div class="container">
             <div class="row">
-                {Object.keys(classesWithStudents).map(specificClass => {
+                {sortedClasses.map(specificClass => {
                     return (
-                        <ClassCard class={specificClass} studentsForClass={classesWithStudents[specificClass]} />
+                        <ClassCard
+                            nameOfClass = {specificClass}
+                            studentsForClass = {classesWithStudents[specificClass]}
+                        />
                     );
                 })}
             </div>

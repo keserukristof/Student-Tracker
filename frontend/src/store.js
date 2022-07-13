@@ -1,7 +1,7 @@
 import create from 'zustand';
 
 import { getStudents } from "./api/apiCalls"
-import { compareStrings } from './helpers/sortHelpers'
+import { compare } from './helpers/sortHelpers'
 
 const studentStore = (set) => ({
     students: [],
@@ -21,7 +21,7 @@ const studentStore = (set) => ({
     },
     sortStudents: (sortProperty) => {
         set((state) => ({
-            students: state.students.sort(compareStrings(sortProperty))
+            students: state.students.sort(compare(sortProperty))
         }))
     },
 })
