@@ -50,18 +50,18 @@ function Table() {
                 </tr>
             </thead>
             <tbody>
-                {students.map(student => {
+                {students.map(({ id, firstName, lastName, gender, classFirstPart, classSecondPart, email }) => {
                     return (
                         <tr>
-                            <th scope="row">{student.id}</th>
-                            <td>{student.firstName}</td>
-                            <td>{student.lastName}</td>
-                            <td>{student.gender}</td>
-                            <td>{student.classFirstPart}.{student.classSecondPart}</td>
-                            <td>{student.email}</td>
+                            <th scope="row">{id}</th>
+                            <td>{firstName}</td>
+                            <td>{lastName}</td>
+                            <td>{gender}</td>
+                            <td>{classFirstPart}.{classSecondPart}</td>
+                            <td>{email}</td>
                             <button onClick={() => {
-                                deleteStudent(student.id);
-                                removeStudent(student.id);
+                                deleteStudent(id);
+                                removeStudent(id);
                             }}>
                                 <ion-icon name="close-circle-outline"></ion-icon>
                             </button>
